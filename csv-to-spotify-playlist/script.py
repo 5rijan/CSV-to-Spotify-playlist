@@ -92,6 +92,7 @@ def get_user_token(client_id, client_secret, redirect_uri):
     return None
 
 # Update the global token variable with the user token
+# *authorization code in the google url itself copy paste from there*
 redirect_uri = "https://www.google.co.in/" 
 user_token = get_user_token(CLIENT_ID, CLIENT_SECRET, redirect_uri)
 
