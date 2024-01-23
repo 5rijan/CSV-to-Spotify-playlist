@@ -1,4 +1,4 @@
-# Spotify Playlist Creator
+# CSV-to-spotify-playlist
 
 ## Overview
 
