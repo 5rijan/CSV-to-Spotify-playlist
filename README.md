@@ -32,7 +32,7 @@ Spotify Playlist Creator is a Python script that enables the creation of Spotify
 2. Navigate to the project directory:
 
     ```bash
-    cd your-repo
+    cd CSV-to-spotify-playlist
     ```
 
 3. Install the required Python packages:
